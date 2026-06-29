@@ -246,3 +246,84 @@ This page supports decisions relating to:
 - Regional Marketing Strategy
 - Digital Performance Improvement
 - Conversion Rate Optimisation
+
+=========================================================================================
+  # Data Model
+
+![Data Model](Images/04-data-model.png)
+
+## Purpose
+
+The Data Model provides the analytical foundation for the MiWay Digital Performance Dashboard. It organises transactional and reference data into a scalable, business-friendly structure that enables accurate reporting, consistent KPI calculations, and efficient dashboard performance.
+
+## Architecture
+
+The dashboard follows a **Star Schema** design, with a central fact table connected to multiple dimension tables. This approach improves query performance, simplifies report development, and supports reusable business metrics across all dashboard pages.
+
+### Fact Table
+
+**Fact_DigitalPerformance**
+
+The fact table captures transactional and performance-related metrics, including:
+
+- Website Sessions
+- Quotes Started
+- Applications Submitted
+- Policies Purchased
+- Marketing Spend
+- Revenue
+- Conversion Metrics
+
+### Dimension Tables
+
+The solution includes the following dimensions:
+
+- **Dim_Date** – Supports time-based analysis and trend reporting.
+- **Dim_Channel** – Classifies customer acquisition channels (Organic, Paid Search, Social, Direct, Email).
+- **Dim_Device** – Enables analysis by Desktop, Mobile, and Tablet.
+- **Dim_Region** – Supports regional performance comparisons.
+- **Dim_Campaign** – Provides campaign-level segmentation and performance analysis.
+
+## Relationships
+
+One-to-many relationships connect each dimension table to the central fact table.
+
+This model enables:
+
+- Consistent filtering across reports.
+- Accurate KPI calculations.
+- Reduced data duplication.
+- Improved report performance.
+- Simplified maintenance and scalability.
+
+## Modelling Principles
+
+The model was designed using dimensional modelling best practices:
+
+- Star Schema architecture.
+- Separate fact and dimension tables.
+- Reusable dimensions across all report pages.
+- Single source of truth for business KPIs.
+- Optimised relationships for efficient filtering and navigation.
+
+## Business Benefits
+
+The data model enables:
+
+- Faster dashboard performance.
+- Consistent business metrics.
+- Reliable executive reporting.
+- Simplified report maintenance.
+- Scalable analytics for future enhancements.
+- Improved user experience through efficient filtering and drill-through functionality.
+
+## Technical Skills Demonstrated
+
+- Data Modelling
+- Star Schema Design
+- Relationship Management
+- Power Query
+- DAX
+- Power BI
+- KPI Standardisation
+- Business Intelligence Architecture
