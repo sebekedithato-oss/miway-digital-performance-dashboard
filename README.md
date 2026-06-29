@@ -448,3 +448,44 @@ The dashboard enables leadership to:
 - DAX
 - Microsoft Excel
 - Data Modelling
+
+=========================================================================================
+# Future Enhancements
+
+The current solution provides a strong foundation for monitoring digital marketing performance and customer journey analytics. Future enhancements could further improve business value and analytical capability.
+
+## Advanced Analytics
+
+- Implement predictive models to forecast customer conversion rates and policy purchases.
+- Develop customer propensity models to identify high-value prospects.
+- Introduce churn prediction to support customer retention strategies.
+
+## Marketing Intelligence
+
+- Integrate Google Analytics 4 (GA4) and Google Tag Manager (GTM) for enhanced behavioural tracking.
+- Implement multi-touch marketing attribution models.
+- Expand campaign performance analysis with audience segmentation and lifetime value metrics.
+
+## Artificial Intelligence
+
+- Introduce AI-driven customer segmentation.
+- Implement anomaly detection to identify unusual campaign or customer behaviour.
+- Enable natural language querying through Microsoft Fabric or Power BI Copilot.
+
+## Operational Improvements
+
+- Automate data refreshes using scheduled cloud pipelines.
+- Implement real-time dashboard monitoring for campaign performance.
+- Introduce automated KPI alerts for significant performance changes.
+
+## Enhanced User Experience
+
+- Develop role-based dashboards for executives, marketing managers, and operational teams.
+- Expand drill-through capabilities with customer-level journey analysis.
+- Introduce interactive scenario modelling to evaluate campaign investment decisions.
+
+## Scalability
+
+- Migrate the solution to Microsoft Fabric or Azure for enterprise-scale analytics.
+- Integrate CRM, policy administration, and marketing automation platforms into a unified reporting environment.
+- Establish governed semantic models to support enterprise self-service analytics.
