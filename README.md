@@ -176,3 +176,73 @@ This analysis supports decisions relating to:
 - Use A/B testing to optimise CTAs and landing page forms.
 - Improve mobile journey usability.
 - Track customer behaviour using GA4, GTM, CRM, and policy administration system data.
+
+=========================================================================================
+  # Deep Dive Analysis
+
+![Deep Dive Analysis](Images/03-deep-dive-analysis.png)
+
+## Purpose
+
+The Deep Dive Analysis page enables business users to move beyond high-level performance metrics and investigate the underlying drivers of digital marketing performance. It provides detailed analysis across customer segments, acquisition channels, devices, regions, and campaign performance, allowing stakeholders to identify opportunities for optimisation and make evidence-based decisions.
+
+## Business Value
+
+This analysis enables stakeholders to:
+
+- Investigate performance beyond executive-level KPIs.
+- Identify trends, anomalies, and conversion opportunities.
+- Compare campaign performance across multiple dimensions.
+- Understand customer behaviour at a more granular level.
+- Support targeted optimisation initiatives using detailed operational insights.
+
+## Analytical Focus Areas
+
+The dashboard provides detailed analysis through:
+
+- Channel Performance Analysis
+- Device Performance Comparison
+- Regional Performance Analysis
+- Campaign Performance Trends
+- Customer Segment Analysis
+
+Each visual supports interactive filtering and enables users to isolate specific business scenarios for further investigation.
+
+## Drill Through Capability
+
+The dashboard includes an interactive Drill Through feature that allows users to navigate from summary visuals into detailed transactional information.
+
+The drill-through experience enables users to:
+
+- Investigate specific customer segments.
+- Analyse campaign performance in greater detail.
+- Review regional conversion performance.
+- Explore customer behaviour by acquisition channel.
+- Support root cause analysis for performance anomalies.
+
+## Key Business Insights
+
+- Customer behaviour varies significantly across acquisition channels.
+- Desktop users consistently achieve higher conversion rates despite lower traffic volumes.
+- Certain regions demonstrate stronger policy conversion performance than others.
+- Campaign effectiveness differs across channels, highlighting opportunities for budget optimisation.
+- Drill-through analysis enables rapid investigation of performance exceptions and emerging trends.
+
+## Business Recommendations
+
+- Increase investment in consistently high-performing acquisition channels.
+- Optimise campaigns with high traffic but low conversion rates.
+- Develop region-specific marketing strategies where conversion performance differs.
+- Use drill-through analysis as part of regular campaign performance reviews.
+- Continuously monitor detailed performance metrics to identify optimisation opportunities before they impact business performance.
+
+## Executive Decisions Supported
+
+This page supports decisions relating to:
+
+- Campaign Optimisation
+- Budget Allocation
+- Customer Segmentation
+- Regional Marketing Strategy
+- Digital Performance Improvement
+- Conversion Rate Optimisation
