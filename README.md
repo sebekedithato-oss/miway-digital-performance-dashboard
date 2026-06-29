@@ -105,6 +105,72 @@ This dashboard supports strategic decisions relating to:
 - Regional marketing strategy
 - Digital channel optimisation
 
+=========================================================================================
+  # Customer Journey Analysis
+
+![Customer Journey Analysis](Images/02-customer-journey.png)
+
+## Purpose
+
+The Customer Journey Analysis page provides a detailed view of how customers progress through MiWay's digital sales funnel. It highlights customer movement across each stage of the journey, identifies conversion bottlenecks, and enables stakeholders to understand where customers disengage before completing a policy purchase.
+
+## Business Value
+
+This dashboard enables business stakeholders to:
+
+- Visualise customer progression across the digital sales journey.
+- Identify stages with the highest customer abandonment.
+- Compare conversion performance across regions.
+- Analyse customer behaviour by marketing channel and device.
+- Support targeted initiatives that improve customer experience and conversion rates.
+
+## Journey Stages
+
+The dashboard tracks customer progression through the following stages:
+
+- Website Visit
+- Quote Started
+- Quote Completed
+- Application Submitted
+- Policy Purchased
+
+Monitoring these stages helps identify where customers encounter friction and where optimisation efforts should be prioritised.
+
+## Visuals Included
+
+- Customer Journey Funnel
+- Stage Drop-off Analysis
+- Regional Conversion Performance
+- Channel and Device Conversion Matrix
+- Journey Stage Performance KPIs
+
+## Key Business Insights
+
+- The greatest customer drop-off occurs between **Application Submitted** and **Policy Purchased**, indicating potential friction during the final purchase stage.
+- Mobile devices generate the highest traffic volumes but convert at a lower rate than desktop users.
+- Organic and Direct channels deliver stronger conversion quality despite lower acquisition volumes.
+- Regional conversion rates vary, highlighting opportunities for targeted marketing and customer experience improvements.
+- Funnel analysis clearly identifies the stages where optimisation efforts will have the greatest business impact.
+
+## Business Recommendations
+
+- Review the application and purchase journey to identify usability or process barriers.
+- Simplify online forms and reduce unnecessary customer effort before policy purchase.
+- Optimise the mobile experience to improve final conversion rates.
+- Increase investment in channels that consistently generate higher-quality conversions.
+- Continuously monitor funnel performance after implementing improvements to measure business impact.
+
+## Executive Decisions Supported
+
+This analysis supports decisions relating to:
+
+- Customer Journey Optimisation
+- Digital Conversion Improvement
+- Marketing Channel Performance
+- Regional Marketing Strategy
+- Customer Experience Enhancement
+- Revenue Growth through Increased Conversion
+
 ## Recommendations
 - Investigate friction points between application submission and policy purchase.
 - Use A/B testing to optimise CTAs and landing page forms.
