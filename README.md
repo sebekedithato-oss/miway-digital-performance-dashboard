@@ -382,3 +382,69 @@ The dashboard enables leadership to:
 - Increase policy conversion rates.
 - Strengthen marketing return on investment.
 - Support continuous digital transformation through data-driven decision-making.
+
+=========================================================================================
+# Technical Skills Demonstrated
+
+## Business Intelligence
+
+- Power BI Dashboard Development
+- Interactive Report Design
+- Executive Reporting
+- KPI Framework Development
+- Data Storytelling
+
+## Data Modelling
+
+- Star Schema Design
+- Fact and Dimension Modelling
+- Relationship Management
+- Data Transformation
+- Data Validation
+
+## Data Analytics
+
+- Customer Journey Analytics
+- Funnel Analysis
+- Conversion Rate Analysis
+- Campaign Performance Analysis
+- Regional Performance Analysis
+- Device Performance Analysis
+- Trend Analysis
+- Root Cause Analysis
+
+## DAX & Power Query
+
+- Calculated Measures
+- Time Intelligence
+- KPI Calculations
+- Data Cleansing
+- Data Transformation
+
+## Visualisation
+
+- KPI Cards
+- Funnel Charts
+- Matrix Visualisations
+- Trend Analysis
+- Conditional Formatting
+- Interactive Slicers
+- Drill Through Navigation
+- Custom Tooltips
+
+## Business Analysis
+
+- Requirements Analysis
+- KPI Definition
+- Performance Measurement
+- Business Process Analysis
+- Executive Decision Support
+- Business Recommendations
+
+## Technologies Used
+
+- Power BI
+- Power Query
+- DAX
+- Microsoft Excel
+- Data Modelling
