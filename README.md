@@ -343,3 +343,42 @@ This dashboard was designed to help business stakeholders answer key strategic a
 - Which customer segments present the greatest growth opportunities?
 - How can marketing spend be optimised to maximise policy conversions?
 - What actions will have the greatest impact on improving digital sales performance?
+
+=========================================================================================
+  # Business Impact
+
+## Organisational Value
+
+The MiWay Digital Performance Dashboard enables stakeholders to monitor, analyse, and optimise digital marketing performance through a single, interactive reporting solution. By consolidating customer journey, campaign, regional, and device analytics into one dashboard, decision-makers can quickly identify performance trends, investigate issues, and implement targeted improvements.
+
+## Business Outcomes
+
+The dashboard supports the organisation by:
+
+- Improving visibility into digital marketing performance.
+- Identifying customer journey bottlenecks affecting policy conversions.
+- Enabling data-driven campaign optimisation.
+- Supporting more effective allocation of marketing spend.
+- Improving executive reporting through consistent KPI measurement.
+- Providing actionable insights that improve customer acquisition and conversion.
+
+## Operational Benefits
+
+The solution contributes to operational efficiency by:
+
+- Reducing manual reporting effort through automated dashboards.
+- Providing a single source of truth for digital performance reporting.
+- Enabling faster investigation of performance issues using interactive drill-through capabilities.
+- Standardising business metrics across marketing and operational teams.
+- Supporting proactive decision-making through near real-time reporting.
+
+## Strategic Impact
+
+The dashboard enables leadership to:
+
+- Improve customer acquisition strategies.
+- Optimise digital channel performance.
+- Enhance customer experience across the online journey.
+- Increase policy conversion rates.
+- Strengthen marketing return on investment.
+- Support continuous digital transformation through data-driven decision-making.
