@@ -327,3 +327,19 @@ The data model enables:
 - Power BI
 - KPI Standardisation
 - Business Intelligence Architecture
+
+=========================================================================================
+  # Business Questions Answered
+
+This dashboard was designed to help business stakeholders answer key strategic and operational questions, including:
+
+- Which digital marketing channels generate the highest quality customer leads?
+- Where do customers abandon the online quote and policy purchase journey?
+- Which regions demonstrate the strongest conversion performance?
+- How does customer behaviour differ across desktop, mobile, and tablet devices?
+- Which campaigns deliver the highest return on marketing investment?
+- Which stages of the customer journey require optimisation?
+- How do conversion rates trend over time?
+- Which customer segments present the greatest growth opportunities?
+- How can marketing spend be optimised to maximise policy conversions?
+- What actions will have the greatest impact on improving digital sales performance?
