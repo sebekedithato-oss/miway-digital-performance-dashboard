@@ -1,6 +1,23 @@
 # miway-digital-performance-dashboard
 Power BI dashboard analysing digital marketing performance, customer journey, conversion optimisation and business insights for an insurance organisation.
 
+## Project Highlights
+
+**Industry:** Insurance
+
+**Solution Type:** Business Intelligence Dashboard
+
+**Tools:** Power BI, DAX, Power Query
+
+**Business Domain:** Digital Marketing Analytics
+
+**Analytics Focus:** Customer Journey, Conversion Optimisation, Campaign Performance
+
+**Dashboard Pages:** 4
+
+**Data Model:** Star Schema
+
+**Interactive Features:** Drill-Through, Slicers, Tooltips, Cross Filtering
 ## Project Overview
 This Power BI dashboard analyses digital customer journey performance for an insurance business, focusing on acquisition, engagement, conversion, and drop-off across key digital channels.
 
