@@ -454,6 +454,19 @@ The dashboard enables leadership to:
 
 The current solution provides a strong foundation for monitoring digital marketing performance and customer journey analytics. Future enhancements could further improve business value and analytical capability.
 
+## Digital Analytics Integration
+
+Future versions of the solution could integrate directly with Google Analytics 4 (GA4) and Google Tag Manager (GTM) to enable near real-time behavioural tracking and campaign performance reporting. This would provide richer customer journey insights, event-level analytics, and enhanced attribution across digital marketing channels.
+
+Potential capabilities include:
+
+- Real-time website and mobile application analytics.
+- Event tracking for quotes, applications, and policy purchases.
+- Marketing campaign attribution.
+- Customer engagement analysis.
+- Landing page and CTA performance monitoring.
+- Enhanced conversion funnel reporting.
+
 ## Advanced Analytics
 
 - Implement predictive models to forecast customer conversion rates and policy purchases.
@@ -489,3 +502,12 @@ The current solution provides a strong foundation for monitoring digital marketi
 - Migrate the solution to Microsoft Fabric or Azure for enterprise-scale analytics.
 - Integrate CRM, policy administration, and marketing automation platforms into a unified reporting environment.
 - Establish governed semantic models to support enterprise self-service analytics.
+
+=========================================================================================
+  # Project Overview
+
+The MiWay Digital Performance Dashboard is an end-to-end Business Intelligence solution designed to monitor, analyse, and optimise digital marketing performance across the customer acquisition journey. Developed using Power BI, the solution transforms digital performance data into meaningful business insights through interactive dashboards, customer journey analysis, drill-through capabilities, and executive reporting.
+
+The dashboard enables stakeholders to monitor key performance indicators, evaluate campaign effectiveness, identify customer drop-off points, and analyse conversion performance across regions, devices, and marketing channels. By combining robust data modelling with interactive visualisation, the solution supports evidence-based decision-making, continuous optimisation, and improved digital business performance.
+
+Designed using dimensional modelling principles and a scalable star schema architecture, the dashboard demonstrates best practices in Business Intelligence, data visualisation, KPI governance, and executive reporting while providing a foundation for future integration with enterprise analytics platforms, AI-driven insights, and real-time digital analytics.
