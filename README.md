@@ -36,6 +36,7 @@ To help stakeholders understand where customers drop off in the quote-to-policy 
 - Paid search performs well for acquisition, while direct and organic channels show stronger conversion quality.
 - Regional and device-level analysis highlights opportunities for targeted optimisation.
 ==================================================================================================================================================================
+
 01  # Executive Summary
 
 ![Executive Summary](images/01-executive-summary.png)
