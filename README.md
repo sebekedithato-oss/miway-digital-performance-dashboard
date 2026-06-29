@@ -39,7 +39,7 @@ To help stakeholders understand where customers drop off in the quote-to-policy 
 
 01  # Executive Summary
 
-![Executive Summary](01-executive-summary.png)
+![Executive Summary](Images/01-executive-summary.png)
 
 ## Purpose
 
