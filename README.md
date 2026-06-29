@@ -35,7 +35,7 @@ To help stakeholders understand where customers drop off in the quote-to-policy 
 - Mobile users show strong engagement but lower final conversion.
 - Paid search performs well for acquisition, while direct and organic channels show stronger conversion quality.
 - Regional and device-level analysis highlights opportunities for targeted optimisation.
-=================================================================================================================
+=========================================================================================
 
 01  # Executive Summary
 
